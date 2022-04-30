@@ -1,0 +1,107 @@
+body {
+    font-family: 'Radio Canada', sans-serif;
+}
+table {
+    padding:60px 1px 60px 40px;
+    background-color:#232323;
+    width:100%;
+}
+.headcell {
+    background-color:#232323;
+    color:#ffffff;
+    width:100px;
+    font-size:18px;
+    border:none;
+
+}
+.last {
+    border:none;
+    color:#ffffff;
+    font-size:15px;
+    position:relative;
+    left:-14px;
+}
+.span1 {
+    display:block;
+    background-color: #464646;
+    color:white;
+    text-align:center;
+    padding:8px;
+    width:42.5%;
+    height:14.5px;
+    position:relative;
+    z-index: 5;
+    top:213px;
+    left:54.1%;
+    font-size:14px;
+}
+.span2 {
+    background-color: #464646;
+    color:white;
+    text-align:center;
+    padding:8px;
+    display:block;
+    width:35.3%;
+    height:14.5px;
+    position:relative;
+    z-index: 5;
+    top:225px;
+    left:50.4%;
+      font-size:14px;
+}
+.span3 {
+    background-color: #464646;
+    color:white;
+    text-align:center;
+    padding:8px;
+    display:block;
+    width:42.5%;
+    height:14.5px;
+    position:relative;
+    z-index: 5;
+    top:237px;
+    left:43.2%;
+      font-size:14px;
+}
+.span4 {
+    background-color: #464646;
+    color:white;
+    text-align:center;
+    padding:8px;
+    display:block;
+    width:39.6%;
+    height:14.5px;
+    position:relative;
+    z-index: 5;
+    top:248px;
+    left:32.2%;
+      font-size:14px;
+}
+.span5 {
+    background-color: #464646;
+    color:white;
+    text-align:center;
+    padding:8px;
+    display:block;
+    width:34.1%;
+    height:14.5px;
+    position:relative;
+    z-index: 5;
+    top:260px;
+    left:29.8%;
+      font-size:14px;
+}
+.big {
+    background-color:#272727;
+}
+td {
+    position:relative;
+    border:1px solid #464646;
+    border-top:none;
+    border-bottom:none;
+    background-color:#232323;
+    padding:5px;
+}
+td:not(:last-of-type){
+    border-right:none;
+}
